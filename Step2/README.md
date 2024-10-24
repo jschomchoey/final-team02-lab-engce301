@@ -4,7 +4,7 @@ This work is a fork from:
 
 ## Before run this project, please run this command in your terminal
 On Unix-like (Linux, macOS, Git bash, etc.):
-   
+
     export NODE_OPTIONS=--openssl-legacy-provider
 
 On Windows command prompt:
@@ -21,5 +21,16 @@ On PowerShell:
     2. npm run build
     3. npm run start-server
 
+![](./assets/image-25671024132006237.png)
+
+![image-25671024132108532](./assets/image-25671024132108532.png)
+
+![image-25671024132136856](./assets/image-25671024132136856.png)
+
 ## Runs the app in the development mode.\
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+
+![image-25671024132146218](./assets/image-25671024132146218.png)
